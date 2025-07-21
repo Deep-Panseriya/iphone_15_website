@@ -1,0 +1,154 @@
+2025-07-21T05:30:12.723Z - info:   [01082] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T05:30:12.724Z - info:   [01082] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T05:30:12.725Z - debug:  [01082] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.725Z - debug:  [01082] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.725Z - debug:  [01082] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.726Z - debug:  [01082] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T05:30:12.727Z - debug:  [01082] Using TFS proxy: 
+2025-07-21T05:30:12.727Z - debug:  [01082] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T05:30:12.727Z - warn:   [01082] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T05:30:12.728Z - error:  [01082] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T05:30:12.747Z - debug:  [01082] Reinitializing due to onDidChangeConfiguration
+2025-07-21T05:30:12.753Z - debug:  [01082] Polling interval value (minutes): 5
+2025-07-21T05:30:12.753Z - debug:  [01082] Polling interval must be greater than 10 minutes.
+2025-07-21T05:30:12.755Z - info:   [01082] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T05:30:12.755Z - info:   [01082] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T05:30:12.755Z - debug:  [01082] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.755Z - debug:  [01082] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.756Z - debug:  [01082] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.756Z - debug:  [01082] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T05:30:12.756Z - debug:  [01082] Using TFS proxy: 
+2025-07-21T05:30:12.757Z - debug:  [01082] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T05:30:12.757Z - warn:   [01082] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T05:30:12.757Z - error:  [01082] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T05:30:12.767Z - debug:  [01082] Reinitializing due to onDidChangeConfiguration
+2025-07-21T05:30:12.767Z - debug:  [01082] Polling interval value (minutes): 5
+2025-07-21T05:30:12.767Z - debug:  [01082] Polling interval must be greater than 10 minutes.
+2025-07-21T05:30:12.768Z - info:   [01082] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T05:30:12.769Z - info:   [01082] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T05:30:12.769Z - debug:  [01082] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.769Z - debug:  [01082] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.769Z - debug:  [01082] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.769Z - debug:  [01082] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T05:30:12.770Z - debug:  [01082] Using TFS proxy: 
+2025-07-21T05:30:12.770Z - debug:  [01082] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T05:30:12.770Z - warn:   [01082] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T05:30:12.770Z - error:  [01082] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T05:30:12.935Z - debug:  [01082] Reinitializing due to onDidChangeConfiguration
+2025-07-21T05:30:12.936Z - debug:  [01082] Polling interval value (minutes): 5
+2025-07-21T05:30:12.937Z - debug:  [01082] Polling interval must be greater than 10 minutes.
+2025-07-21T05:30:12.940Z - info:   [01082] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T05:30:12.940Z - info:   [01082] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T05:30:12.940Z - debug:  [01082] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.940Z - debug:  [01082] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.942Z - debug:  [01082] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:30:12.942Z - debug:  [01082] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T05:30:12.943Z - debug:  [01082] Using TFS proxy: 
+2025-07-21T05:30:12.943Z - debug:  [01082] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T05:30:12.945Z - warn:   [01082] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T05:30:12.945Z - error:  [01082] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T05:56:13.056Z - debug:  [01082] Reinitializing due to onDidChangeConfiguration
+2025-07-21T05:56:13.058Z - debug:  [01082] Polling interval value (minutes): 5
+2025-07-21T05:56:13.058Z - debug:  [01082] Polling interval must be greater than 10 minutes.
+2025-07-21T05:56:13.068Z - info:   [01082] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T05:56:13.068Z - info:   [01082] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T05:56:13.068Z - debug:  [01082] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:56:13.069Z - debug:  [01082] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:56:13.093Z - debug:  [01082] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T05:56:13.094Z - debug:  [01082] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T05:56:13.095Z - debug:  [01082] Using TFS proxy: 
+2025-07-21T05:56:13.095Z - debug:  [01082] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T05:56:13.095Z - warn:   [01082] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T05:56:13.095Z - error:  [01082] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T11:59:57.919Z - debug:  [01082] Reinitializing due to onDidChangeConfiguration
+2025-07-21T11:59:57.921Z - debug:  [01082] Polling interval value (minutes): 5
+2025-07-21T11:59:57.921Z - debug:  [01082] Polling interval must be greater than 10 minutes.
+2025-07-21T11:59:57.923Z - info:   [01082] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T11:59:57.924Z - info:   [01082] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T11:59:57.924Z - debug:  [01082] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T11:59:57.924Z - debug:  [01082] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T11:59:57.946Z - debug:  [01082] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T11:59:57.946Z - debug:  [01082] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T11:59:57.947Z - debug:  [01082] Using TFS proxy: 
+2025-07-21T11:59:57.947Z - debug:  [01082] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T11:59:57.948Z - warn:   [01082] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T11:59:57.948Z - error:  [01082] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T14:54:01.621Z - info:   [30172] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T14:54:01.621Z - info:   [30172] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T14:54:01.622Z - debug:  [30172] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T14:54:01.622Z - debug:  [30172] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T14:54:01.627Z - debug:  [30172] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T14:54:01.627Z - debug:  [30172] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T14:54:01.628Z - debug:  [30172] Using TFS proxy: 
+2025-07-21T14:54:01.629Z - debug:  [30172] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T14:54:01.629Z - warn:   [30172] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T14:54:01.629Z - error:  [30172] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T14:59:20.244Z - info:   [30812] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T14:59:20.245Z - info:   [30812] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T14:59:20.246Z - debug:  [30812] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T14:59:20.246Z - debug:  [30812] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T14:59:20.249Z - debug:  [30812] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T14:59:20.250Z - debug:  [30812] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T14:59:20.250Z - debug:  [30812] Using TFS proxy: 
+2025-07-21T14:59:20.251Z - debug:  [30812] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T14:59:20.251Z - warn:   [30812] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T14:59:20.251Z - error:  [30812] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T14:59:36.994Z - debug:  [30812] Reinitializing due to onDidChangeConfiguration
+2025-07-21T14:59:36.996Z - debug:  [30812] Polling interval value (minutes): 5
+2025-07-21T14:59:36.996Z - debug:  [30812] Polling interval must be greater than 10 minutes.
+2025-07-21T14:59:36.998Z - info:   [30812] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T14:59:36.998Z - info:   [30812] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T14:59:36.999Z - debug:  [30812] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T14:59:36.999Z - debug:  [30812] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T14:59:37.023Z - debug:  [30812] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T14:59:37.023Z - debug:  [30812] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T14:59:37.024Z - debug:  [30812] Using TFS proxy: 
+2025-07-21T14:59:37.024Z - debug:  [30812] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T14:59:37.024Z - warn:   [30812] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T14:59:37.025Z - error:  [30812] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T15:15:17.484Z - info:   [32775] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T15:15:17.485Z - info:   [32775] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T15:15:17.485Z - debug:  [32775] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T15:15:17.485Z - debug:  [32775] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T15:15:17.490Z - debug:  [32775] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T15:15:17.490Z - debug:  [32775] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T15:15:17.491Z - debug:  [32775] Using TFS proxy: 
+2025-07-21T15:15:17.491Z - debug:  [32775] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T15:15:17.491Z - warn:   [32775] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T15:15:17.492Z - error:  [32775] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T15:15:17.513Z - debug:  [32775] Reinitializing due to onDidChangeConfiguration
+2025-07-21T15:15:17.514Z - debug:  [32775] Polling interval value (minutes): 5
+2025-07-21T15:15:17.514Z - debug:  [32775] Polling interval must be greater than 10 minutes.
+2025-07-21T15:15:17.516Z - info:   [32775] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T15:15:17.516Z - info:   [32775] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T15:15:17.516Z - debug:  [32775] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T15:15:17.516Z - debug:  [32775] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T15:15:17.517Z - debug:  [32775] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T15:15:17.517Z - debug:  [32775] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T15:15:17.518Z - debug:  [32775] Using TFS proxy: 
+2025-07-21T15:15:17.518Z - debug:  [32775] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T15:15:17.518Z - warn:   [32775] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T15:15:17.519Z - error:  [32775] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T15:18:49.116Z - debug:  [32775] Reinitializing due to onDidChangeConfiguration
+2025-07-21T15:18:49.117Z - debug:  [32775] Polling interval value (minutes): 5
+2025-07-21T15:18:49.117Z - debug:  [32775] Polling interval must be greater than 10 minutes.
+2025-07-21T15:18:49.119Z - info:   [32775] *** FOLDER: /Users/panseriya/Desktop/apple_website ***
+2025-07-21T15:18:49.119Z - info:   [32775] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-21T15:18:49.119Z - debug:  [32775] Looking for an External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T15:18:49.119Z - debug:  [32775] No External Context at /Users/panseriya/Desktop/apple_website
+2025-07-21T15:18:49.136Z - debug:  [32775] Looking for TFVC repository at /Users/panseriya/Desktop/apple_website
+2025-07-21T15:18:49.136Z - debug:  [32775] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T15:18:49.137Z - debug:  [32775] Using TFS proxy: 
+2025-07-21T15:18:49.137Z - debug:  [32775] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T15:18:49.137Z - warn:   [32775] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T15:18:49.137Z - error:  [32775] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-21T15:51:19.623Z - info:   [36753] *** FOLDER: /Users/panseriya/Desktop/iphone_15_website ***
+2025-07-21T15:51:19.623Z - info:   [36753] AzureReposVSCode/1.161.0 (VSCode 1.99.3; Darwin 20.6.0; Node 20.19.0)
+2025-07-21T15:51:19.624Z - debug:  [36753] Looking for an External Context at /Users/panseriya/Desktop/iphone_15_website
+2025-07-21T15:51:19.624Z - debug:  [36753] No External Context at /Users/panseriya/Desktop/iphone_15_website
+2025-07-21T15:51:19.625Z - debug:  [36753] Looking for TFVC repository at /Users/panseriya/Desktop/iphone_15_website
+2025-07-21T15:51:19.625Z - debug:  [36753] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-21T15:51:19.626Z - debug:  [36753] Using TFS proxy: 
+2025-07-21T15:51:19.627Z - debug:  [36753] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-21T15:51:19.628Z - warn:   [36753] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-21T15:51:19.628Z - error:  [36753] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
